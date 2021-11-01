@@ -1,0 +1,21 @@
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\bin\Debug\net5.0-windows\BuxDU Test.exe
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\bin\Debug\net5.0-windows\BuxDU Test.deps.json
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\bin\Debug\net5.0-windows\BuxDU Test.runtimeconfig.json
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\bin\Debug\net5.0-windows\BuxDU Test.runtimeconfig.dev.json
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\bin\Debug\net5.0-windows\BuxDU Test.dll
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\bin\Debug\net5.0-windows\ref\BuxDU Test.dll
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\bin\Debug\net5.0-windows\BuxDU Test.pdb
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU_Test.Form1.resources
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU Test.csproj.GenerateResource.cache
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU Test.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU Test.AssemblyInfo.cs
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU Test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU Test.dll
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\ref\BuxDU Test.dll
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU Test.pdb
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU Test.genruntimeconfig.cache
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU_Test.Properties.Resources.resources
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU_Test.Registr.resources
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU_Test.Admin.resources
+C:\Users\user\source\repos\BuxDU_Test\BuxDU Test\obj\Debug\net5.0-windows\BuxDU Test.csproj.AssemblyReference.cache
